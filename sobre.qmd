@@ -1,0 +1,11 @@
+
+---
+title: "Sobre mim"
+---
+
+# Sobre mim
+
+Sou estudante de Administração no instituto federal farroupilha campus Julio de castilhos, formado pelo mesmo instuto em técnico em informática, tenho 20 anos, sou natural de Júlio de Castilhos, Rio Grande do Sul, Brasil.
+
+Este site reúne meus estudos, projetos,
+produções acadêmicas e acima de tudos o meu ponto de vista sobre assuntos que me interessam e que podem interessar a você também.

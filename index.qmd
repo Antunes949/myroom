@@ -1,0 +1,16 @@
+
+---
+title: "Início"
+---
+
+# Olá, seja bem-vindo!
+
+Este é meu espaço pessoal na web, onde irei compartilhas dos mais diversos assuntos que me interessam e podem acabar interressando a você também.
+
+Aqui compartilho meus estudos, trabalhos,
+pesquisas e projetos.
+
+## Últimas publicações
+
+- [Meus trabalhos](trabalhos.qmd)
+- [Sobre mim](sobre.qmd)

@@ -1,0 +1,22 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "João Vítor Antunes De Souza"
+  description: "Site acadêmico pessoal, com informações sobre meus trabalhos, pesquisas e interesses."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      - href: trabalhos.qmd
+        text: Trabalhos
+      - href: sobre.qmd
+        text: Sobre
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lang: pt-BR
