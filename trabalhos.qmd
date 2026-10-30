@@ -1,0 +1,9 @@
+---
+title: "Trabalhos"
+---
+
+# Meus trabalhos
+
+## Últimas publicações
+
+- [REGULARIZAÇÃO DA REDES SOCIAIS](principal.qmd)

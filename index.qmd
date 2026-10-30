@@ -10,7 +10,12 @@ Este é meu espaço pessoal na web, onde irei compartilhar dos mais diversos ass
 Aqui compartilho meus estudos, trabalhos,
 pesquisas e projetos.
 
-## Últimas publicações
+## Última publicação
 
-- [Meus trabalhos](trabalhos.qmd)
+- [REGULARIZAÇÃO DA REDES SOCIAIS](principal.qmd)
+
+[Ver todos os trabalhos](trabalhos.qmd)
+
+## Outros links
+
 - [Sobre mim](sobre.qmd)
