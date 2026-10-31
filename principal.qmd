@@ -28,3 +28,15 @@ O principal desafio que se encontra na atualidade para que as redes sociais seja
 - [Aurum — Liberdade de expressão](https://www.aurum.com.br/blog/liberdade-de-expressao/)
 - [Jusbrasil — Aspectos jurídicos da liberdade de expressão](https://www.jusbrasil.com.br/artigos/aspectos-juridicos-da-liberdade-de-expressao/1273056374)
 - [Exame — Um contexto sobre as Notas da Comunidade do Twitter](https://exame.com/colunistas/instituto-millenium/um-contexto-sobre-as-notas-da-comunidade-do-twitter/)
+
+### Comentários
+
+Os comentários são públicos e exigem uma conta GitHub.
+
+<script src="https://utteranc.es/client.js"
+        repo="Antunes949/myroom"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
